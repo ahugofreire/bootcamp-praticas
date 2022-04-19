@@ -1,0 +1,6 @@
+2022-04-08 15:06:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TEST_CASE" not found; SQL statement:
+insert into test_case (id_case, description, last_update, number_of_tries, passed, tested) values (default, ?, ?, ?, ?, ?) [42102-200]
+2022-04-08 15:09:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TEST_CASE" not found; SQL statement:
+insert into test_case (id_case, description, last_update, number_of_tries, passed, tested) values (default, ?, ?, ?, ?, ?) [42102-200]
